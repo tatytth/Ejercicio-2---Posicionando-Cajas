@@ -1,0 +1,55 @@
+.big {
+	width: 300px;
+	height: 300px;
+	position: static;
+	margin-bottom: 20px;
+}
+
+.medium {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	top: 75px;
+	left: 75px;
+}
+
+.little {
+	width: 75px;
+	height: 75px;
+	position: relative;
+}
+
+.box_1 {
+	background-color: #FF0000;
+	position: relative;
+}
+
+.box_2 {
+	background-color: #0000FF;
+	margin-bottom: 20px;
+}
+
+.box_3 {
+	background-color: #800080;
+	margin-bottom: 20px;
+}
+
+.box_4 {
+	background-color: #008000;
+	margin-bottom: 20px;
+}
+
+.box_5 {
+	background-color: #FFFF00;
+	margin-bottom: 20px;
+}
+
+.box_6 {
+	background-color: #000000;
+	top: -170px;
+    left: 0px;
+}
+
+
+
+
